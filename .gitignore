@@ -1,0 +1,6 @@
+# project
+**/.che/
+**/node_modules/
+**/package-lock.json
+**/.npmrc
+**/*.log

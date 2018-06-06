@@ -16,7 +16,7 @@ This package is only an example and not intended for productive use. Its consump
 
 ## Requirements
 
-Since the foundation package is a CDS reuse model there are no prerequisites. 
+Since the foundation package is a pure CDS reuse model there are no prerequisites. 
 
 ## Support
 

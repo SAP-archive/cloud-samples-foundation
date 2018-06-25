@@ -3,8 +3,8 @@
 The following samples give you more hands-on practice with the [application programming model for SAP Cloud Platform](https://help.sap.com/viewer//65de2977205c403bbc107264b8eccf4b/Cloud/en-US/00823f91779d4d42aa29a498e0535cdf.html):
 
 * Part 1 - Foundation (current repository)
-* Part 2 - [Product Catalog](https://github.com/SAP/cloud-samples-catalog)
-* Part 3 - [ITelO Catalog](https://github.com/SAP/cloud-samples-itelo)
+* Part 2 - [Product Catalog](https://github.com/SAP/cloud-samples-catalog/tree/rel-1.0)
+* Part 3 - [ITelO Catalog](https://github.com/SAP/cloud-samples-itelo/tree/rel-1.0)
 
 ### Part 1: Foundation
 
@@ -12,11 +12,11 @@ The foundation package is a pure CDS reuse model providing common types, like Cu
 
 For details about CDS modeling, check the following [documentation](https://help.sap.com/viewer//65de2977205c403bbc107264b8eccf4b/Cloud/en-US/855e00bd559742a3b8276fbed4af1008.html).
 
-This package is only an example and not intended for productive use. Its consumption is shown by the business application samples [Product Catalog](https://github.com/SAP/cloud-samples-catalog) and [ITelO Catalog](https://github.com/SAP/cloud-samples-itelo).
+This package is only an example and not intended for productive use. Its consumption is shown by the business application samples [Product Catalog](https://github.com/SAP/cloud-samples-catalog/tree/rel-1.0) and [ITelO Catalog](https://github.com/SAP/cloud-samples-itelo/tree/rel-1.0).
 
 ## Requirements
 
-Since the foundation package is a pure CDS reuse model there are no prerequisites. 
+Since the foundation package is a pure CDS reuse model there are no prerequisites.
 
 ## Support
 

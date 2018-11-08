@@ -1,33 +1,23 @@
-![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+![](https://img.shields.io/badge/STATUS-END%20OF%20LIFE-red.svg?longCache=true&style=flat)
 
-# Important Notice
-We have decided to stop the maintenance of these sample apps. Hence, this Github repository is no longer maintained.
+# End of Life
+This project is now End of Life.  The SAP Open Source Program Office (OSPO) has determined that no teams are currently supporting this project, and therefore, no additional fixes or changes will be made.
 
-## Samples for the Application Programming Model for SAP Cloud Platform
+Users are welcome to fork this project for thier own use, however, SAP will not be able to offer any support for the project after November 1, 2018.  
 
-The following samples give you more hands-on practice with the [application programming model for SAP Cloud Platform](https://help.sap.com/viewer//65de2977205c403bbc107264b8eccf4b/Cloud/en-US/00823f91779d4d42aa29a498e0535cdf.html):
+At this time, the project will only be archived.  The archive will be left online unless one of the following events takes place:
 
-* Part 1 - Foundation (current repository)
-* Part 2 - [Product Catalog](https://github.com/SAP/cloud-samples-catalog)
-* Part 3 - [ITelO Catalog](https://github.com/SAP/cloud-samples-itelo)
+- The project has a known security flaw
+- Features in the SAP Cloud, specifically the Web IDE, are no longer compatible with this code
 
-### Part 1: Foundation
+If either event is reported to the team, or to the SAP GitHub admins, the project will be given 30 days and then removed from GitHub.
 
-The foundation package is a pure CDS reuse model providing common types, like Currency and Unit of Measure, which are frequently used in business applications.
+Please [contact the original owners](mailto:DL_578DEAA97BCF843F1D00002D@exchange.sap.corp?subject=This%20is%20about%20https://github.com/SAP/cloud-samples-itelo) if you have any quesitons, or wish to report either a security or compatibility issue.
 
-For details about CDS modeling, check the following [documentation](https://help.sap.com/viewer//65de2977205c403bbc107264b8eccf4b/Cloud/en-US/855e00bd559742a3b8276fbed4af1008.html).
+[The original README file can be found here](OLD-README.md)
 
-This package is only an example and not intended for productive use. Its consumption is shown by the business application samples [Product Catalog](https://github.com/SAP/cloud-samples-catalog) and [ITelO Catalog](https://github.com/SAP/cloud-samples-itelo).
 
-## Requirements
-
-Since the foundation package is a pure CDS reuse model there are no prerequisites. 
-
-## Support
-
-This project is provided "as-is": there is no guarantee that raised issues will be answered or addressed in future releases.
-
-## License
+# License
 
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
 This project is licensed under the Apache Software License, Version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.

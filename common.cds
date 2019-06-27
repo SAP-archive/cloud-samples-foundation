@@ -8,6 +8,7 @@ abstract entity BusinessObject : ManagedObject {
 }
 
 abstract entity ManagedObject {
+	@Core.Computed
 	created: {
 		byUser: User @(
 			title: '{i18n>createdBy}',
@@ -17,7 +18,8 @@ abstract entity ManagedObject {
 			title: '{i18n>createdOn}',
 			odata.on.insert: #now
 		);
-	} @( Core.Computed );
+	};
+	@Core.Computed
 	modified: {
 		byUser: User @(
 			title: '{i18n>changedBy}',
@@ -30,7 +32,7 @@ abstract entity ManagedObject {
 				etag
 			}
 		);
-	} @( Core.Computed );
+	};
 }
 
 type User: String(255) @(

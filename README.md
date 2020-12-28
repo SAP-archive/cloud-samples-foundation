@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained.
+
 ## Samples for the Application Programming Model for SAP Cloud Platform
 
 The following samples give you more hands-on practice with the [application programming model for SAP Cloud Platform](https://help.sap.com/viewer//65de2977205c403bbc107264b8eccf4b/Cloud/en-US/00823f91779d4d42aa29a498e0535cdf.html):
